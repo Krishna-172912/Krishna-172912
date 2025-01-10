@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Krishna
 - 👀 I’m interested in coding and making exciting cyber stuff
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently tryna master python
 - 💞️ I’m looking to collaborate on opensource projects
 - 📫 How to reach me krishna324pain@gmail.com
 - 😄 Pronouns: he/him
